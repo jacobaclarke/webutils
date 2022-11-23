@@ -1,0 +1,10 @@
+{
+  "name": "webutils",
+  "packageManager": "yarn@3.3.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
